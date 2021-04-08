@@ -1,1 +1,8 @@
 1. Aşama---> git init
+2. Aşama---> git remote add origin adresimiziyazarız
+
+
+
+3. Aşama---> git add .
+4. Aşama---> git commit -m "Acıklama"
+5. Aşama---> git push origin master (git push -u origin master --force)
